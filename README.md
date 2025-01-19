@@ -18,6 +18,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arnavanand2005&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
 
+![snake gif](https://github.com/arnavanand2005/arnavanand2005/blob/output/github-snake-dark.svg)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
