@@ -29,16 +29,20 @@
 # 📊 GitHub Stats:
 <div align="center">
     <a href="https://github.com/arnavanand2005">
-        <img src="https://github-readme-stats.vercel.app/api?username=arnavanand2005&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="Arnav Anand's GitHub Stats">
-    </a><br/>
+        <img src="https://github-readme-stats.vercel.app/api?username=arnavanand2005&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="Arnav Anand's GitHub Stats" />
+    </a>
+</div>
 
+<div align="center">
     <a href="https://github.com/arnavanand2005">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavanand2005&theme=neon&hide_border=false" alt="Arnav Anand's Streak Stats">
-    </a><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavanand2005&theme=neon&hide_border=false" alt="Arnav Anand's Streak Stats" />
+    </a>
+</div>
 
+<div align="center">
     <a href="https://github.com/arnavanand2005">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavanand2005&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Arnav Anand's Top Languages">
-    </a><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavanand2005&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Arnav Anand's Top Languages" />
+    </a>
 </div>
 
 ### ✍️ Random Dev Quote
