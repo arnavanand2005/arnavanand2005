@@ -3,10 +3,15 @@
 </h1>
 
 # 💫 About Me:
-👋 Hi, I'm Arnav Anand!<br>Web Developer | Python Learner | React & Figma Explorer<br>💻 HTML | CSS | JavaScript | 🐍 Python | ⚛️ React | 🎨 Figma<br><br>I’m a web developer who loves turning ideas into interactive, user-friendly websites with HTML, CSS, and JavaScript. Currently, I'm diving into Python for Machine Learning and exploring React for building dynamic UIs. I’m also getting my hands dirty with Figma to improve my design skills.<br><br>🚀 My Tech Stack:<br>Languages: HTML, CSS, JavaScript, Python<br>Frameworks/Libraries: React (learning) ⚛️<br>Tools: Figma (learning) 🎨, Git & GitHub 🛠️<br>Currently Learning: Machine Learning with Python 🤖<br>🤔 Fun Facts:<br>I love solving puzzles, whether it’s debugging code or cracking escape room challenges 🧩.<br>I’m always exploring new tech trends and experimenting with new ideas 💡.<br>Coffee is my coding fuel ☕ (and I’m on a quest to perfect my barista skills :) ).<br>Outside of tech, I’m all about cooking up new recipes 🍳 (and yes, I’m pretty good at it!).<br>My dream is to combine my coding skills with creative design to build amazing products! 🌟<br>📈 Check Out My Projects:<br>Feel free to explore my repositories below and connect with me. I’m always open to collaboration and new learning opportunities! 🌱<br>
+<p align="center">
+  👋 Hi, I'm Arnav Anand!<br>Web Developer | Python Learner | React & Figma Explorer<br>💻 HTML | CSS | JavaScript | 🐍 Python | ⚛️ React | 🎨 Figma<br><br>I’m a web developer who loves turning ideas into interactive, user-friendly websites with HTML, CSS, and JavaScript. Currently, I'm diving into Python for Machine Learning and exploring React for building dynamic UIs. I’m also getting my hands dirty with Figma to improve my design skills.<br><br>🚀 My Tech Stack:<br>Languages: HTML, CSS, JavaScript, Python<br>Frameworks/Libraries: React (learning) ⚛️<br>Tools: Figma (learning) 🎨, Git & GitHub 🛠️<br>Currently Learning: Machine Learning with Python 🤖<br>🤔 Fun Facts:<br>I love solving puzzles, whether it’s debugging code or cracking escape room challenges 🧩.<br>I’m always exploring new tech trends and experimenting with new ideas 💡.<br>Coffee is my coding fuel ☕ (and I’m on a quest to perfect my barista skills :) ).<br>Outside of tech, I’m all about cooking up new recipes 🍳 (and yes, I’m pretty good at it!).<br>My dream is to combine my coding skills with creative design to build amazing products! 🌟<br>📈 Check Out My Projects:<br>Feel free to explore my repositories below and connect with me. I’m always open to collaboration and new learning opportunities! 🌱<br>
+</p>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/759703409393270794) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/www.linkedin.com/in/) 
+<p align="center">
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/759703409393270794) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/www.linkedin.com/in/) 
+</p>
 
 ## 💻 Tech Stack:
 <p align="center">
@@ -27,30 +32,32 @@
 </p>
 
 # 📊 GitHub Stats:
-<div align="center">
+<p align="center">
     <a href="https://github.com/arnavanand2005">
         <img src="https://github-readme-stats.vercel.app/api?username=arnavanand2005&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="Arnav Anand's GitHub Stats" />
     </a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
     <a href="https://github.com/arnavanand2005">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavanand2005&theme=neon&hide_border=false" alt="Arnav Anand's Streak Stats" />
     </a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
     <a href="https://github.com/arnavanand2005">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavanand2005&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Arnav Anand's Top Languages" />
     </a>
-</div>
+</p>
 
-<div align="center">
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-</div>
+<p align="center">
+    ### ✍️ Random Dev Quote
+    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arnavanand2005&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
+<p align="center">
+    ![](https://github-contributor-stats.vercel.app/api?username=arnavanand2005&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
+</p>
 
 ![snake gif](https://github.com/arnavanand2005/arnavanand2005/blob/output/github-snake-dark.svg)
