@@ -56,6 +56,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=arnavanand2005&limit=5&theme=aura&combine_all_yearly_contributions=true" />
 </div>
 
-
-
-![snake gif](https://github.com/arnavanand2005/arnavanand2005/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/arnavanand2005/arnavanand2005/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
