@@ -50,14 +50,16 @@
     </a>
 </p>
 
-<p align="center">
-    ### ✍️ Random Dev Quote
-    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-</p>
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+</div>
 
 ### 🔝 Top Contributed Repo
-<p align="center">
-    ![](https://github-contributor-stats.vercel.app/api?username=arnavanand2005&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
-</p>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=arnavanand2005&limit=5&theme=aura&combine_all_yearly_contributions=true" />
+</div>
+
+
 
 ![snake gif](https://github.com/arnavanand2005/arnavanand2005/blob/output/github-snake-dark.svg)
