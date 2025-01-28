@@ -45,8 +45,10 @@
     </a>
 </div>
 
+<div align="center">
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arnavanand2005&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
