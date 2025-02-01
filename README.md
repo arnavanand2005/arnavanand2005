@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-# 💫 About Me:
-</p>
-
-<p align="center">
   👋 Hi, I'm Arnav Anand!<br>Web Developer | Python Learner | React & Figma Explorer<br>💻 HTML | CSS | JavaScript | 🐍 Python | ⚛️ React | 🎨 Figma<br><br>I’m a web developer who loves turning ideas into interactive, user-friendly websites with HTML, CSS, and JavaScript. Currently, I'm diving into Python for Machine Learning and exploring React for building dynamic UIs. I’m also getting my hands dirty with Figma to improve my design skills.<br><br>🚀 My Tech Stack:<br>Languages: HTML, CSS, JavaScript, Python<br>Frameworks/Libraries: React (learning) ⚛️<br>Tools: Figma (learning) 🎨, Git & GitHub 🛠️<br>Currently Learning: Machine Learning with Python 🤖<br>🤔 Fun Facts:<br>I love solving puzzles, whether it’s debugging code or cracking escape room challenges 🧩.<br>I’m always exploring new tech trends and experimenting with new ideas 💡.<br>Coffee is my coding fuel ☕ (and I’m on a quest to perfect my barista skills :) ).<br>Outside of tech, I’m all about cooking up new recipes 🍳 (and yes, I’m pretty good at it!).<br>My dream is to combine my coding skills with creative design to build amazing products! 🌟<br>📈 Check Out My Projects:<br>Feel free to explore my repositories below and connect with me. I’m always open to collaboration and new learning opportunities! 🌱<br>🧑🏻‍💻My linkdin: www.linkedin.com/in/arnav-anand-056710315 <br> 📧 You can contact me at : arnavanand2005@gmail.com <br>
 </p>
 
